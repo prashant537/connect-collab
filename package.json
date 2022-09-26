@@ -1,0 +1,27 @@
+{
+    "name": "ConnectCollab",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@babel/plugin-syntax-jsx": "^7.18.6",
+        "@babel/preset-react": "^7.18.6",
+        "@microsoft/teamsfx-cli": "1.*"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@babel/plugin-proposal-class-properties": "^7.18.6",
+        "adaptivecards": "^2.11.1",
+        "adaptivecards-reactnative": "^2.2.27",
+        "botbuilder": "^4.17.1",
+        "patch-package": "^6.4.7",
+        "react": "^18.1.0",
+        "react-chat-elements": "^12.0.5",
+        "react-chat-ui": "^0.4.0",
+        "react-datetime": "^3.1.1",
+        "react-native-vector-icons": "^9.2.0"
+    }
+}
